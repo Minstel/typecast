@@ -2,3 +2,6 @@ composer.lock
 /vendor
 /cache
 
+.temp
+ext-src/ext/
+ext-src/compile*.log
